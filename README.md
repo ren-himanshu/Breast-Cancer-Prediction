@@ -1,2 +1,2 @@
 # Breast-Cancer-Prediction
-A neural network for predicting breast cancer
+A neural network for predicting breast cancer using pytorch
